@@ -1,10 +1,10 @@
 ---
-title: About Alembic
+title: Will's Website!
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  ## Will's a Beast
+  The place to be.
+feature_image: "[[https://picsum.photos/1300/400?image=989](https://c02.purpledshub.com/uploads/sites/62/2014/10/GettyImages-164854094-85c87f5.jpg)](https://c02.purpledshub.com/uploads/sites/62/2014/10/GettyImages-164854094-85c87f5.jpg)"
+excerpt: "This is a website that will host my summer portfolio"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
