@@ -3,7 +3,7 @@ title: Will's Website!
 feature_text: |
   ## Will's a Beast
   The place to be.
-feature_image: "[[https://picsum.photos/1300/400?image=989](https://c02.purpledshub.com/uploads/sites/62/2014/10/GettyImages-164854094-85c87f5.jpg)](https://c02.purpledshub.com/uploads/sites/62/2014/10/GettyImages-164854094-85c87f5.jpg)"
+feature_image: "https://c02.purpledshub.com/uploads/sites/62/2014/10/GettyImages-164854094-85c87f5.jpg"
 excerpt: "This is a website that will host my summer portfolio"
 ---
 
