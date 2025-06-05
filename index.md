@@ -1,15 +1,15 @@
 ---
 title: Will's Website!
 feature_text: |
-  ## Welcome to my Summer 2025 Portfolio
-  This website is hub for the projects and research I accomplished over the course of the summer.
-feature_image: "https://c02.purpledshub.com/uploads/sites/62/2014/10/GettyImages-164854094-85c87f5.jpg"
-excerpt: "This is a website that will host my summer portfolio"
+  <div style="color: #f5f5dc;">
+    <h2>Welcome to my Summer 2025 Portfolio</h2>
+    <p>This website is a hub for the projects and research I accomplished over the course of the summer.</p>
+  </div>
 ---
 
 I am PhD student at the University of Hawai'i. I study computer science and marine biology. My favorite TV show is Game of Thrones. 
 
-{% include button.html text="Will's GitHub" icon="github" link="https://github.com/WillHarrigan" color="#1891ff" %}
+{% include button.html text="Will's GitHub" icon="github" link="https://github.com/WillHarrigan" color="#0366d6" %}
 
 ## 🚀 Projects & Weekly Goals
 
