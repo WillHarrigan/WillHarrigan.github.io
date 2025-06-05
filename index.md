@@ -7,7 +7,8 @@ feature_text: |
   </div>
 ---
 
-I am PhD student at the University of Hawai'i. I study computer science and marine biology. My favorite TV show is Game of Thrones. 
+I am a PhD student at the University of Hawai‘i studying computer science and marine biology.  
+My favorite TV show is *Game of Thrones*. 🐉⚔️
 
 {% include button.html text="Will's GitHub" icon="github" link="https://github.com/WillHarrigan" color="#0366d6" %}
 
