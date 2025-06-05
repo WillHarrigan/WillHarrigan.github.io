@@ -1,10 +1,10 @@
 ---
 title: Will's Website!
 feature_text: |
-  <div style="color: #f5f5dc;">
-    <h2>Welcome to my Summer 2025 Portfolio</h2>
-    <p>This website is a hub for the projects and research I accomplished over the course of the summer.</p>
-  </div>
+  ## 🌊 Welcome to my Summer 2025 Portfolio ☀️  
+  This website is a hub for the projects and research I accomplished over the summer.
+feature_image: "https://c02.purpledshub.com/uploads/sites/62/2014/10/GettyImages-164854094-85c87f5.jpg"
+excerpt: "Explore my research, coding journey, and creative work from Summer 2025."
 ---
 
 I am a PhD student at the University of Hawai‘i studying computer science and marine biology.  
